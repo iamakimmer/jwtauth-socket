@@ -1,0 +1,26 @@
+{
+  "name": "jwtauth-socket",
+  "version": "0.1.0",
+  "description": "Authenticate Socket.IO Connection using JSON Web Tokens (jwt) and the node-jwt-simple library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamakimmer/jwtauth-socket"
+  },
+  "keywords": [
+    "jwt",
+    "socketio",
+    "socket-io"
+  ],
+  "author": "Matt Kim",
+  "license": "MIT",
+  "dependencies" : {
+    "jwt-simple": "~0.2.0"
+    },
+  "bugs": {
+    "url": "https://github.com/iamakimmer/jwtauth-socket/issues"
+  }
+}
