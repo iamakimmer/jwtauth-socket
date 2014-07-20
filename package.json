@@ -1,6 +1,6 @@
 {
   "name": "jwtauth-socket",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Authenticate Socket.IO Connection using JSON Web Tokens (jwt) and the node-jwt-simple library",
   "main": "index.js",
   "scripts": {
